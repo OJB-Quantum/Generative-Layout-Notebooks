@@ -3,4 +3,4 @@ GDSII/OASIS layout examples in Google Colab notebooks. Previews are provided as 
 
 Note: This repository also contains some interesting fractal design layouts.
 
-Here is a rendered view of the notebooks: [](https://nbviewer.org/github/OJB-Quantum/Generative-Layout-Notebooks/tree/main/)
+Here is a rendered view of the notebooks: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/OJB-Quantum/Generative-Layout-Notebooks/tree/main/)
