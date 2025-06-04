@@ -34,3 +34,10 @@ Below are some screenshot examples of the GDS outputs:
 ![FWF 001](https://github.com/user-attachments/assets/ffc1f102-5382-4059-bc8c-6d037bdd2e4a)
 
 ![FWF 003](https://github.com/user-attachments/assets/e1db3dc0-d2b3-4273-86dc-bb992b15195a)
+
+![CHB 001](https://github.com/user-attachments/assets/d15ab485-17b7-4a20-bf2b-c336d17acc39)
+
+![CHB 003](https://github.com/user-attachments/assets/c4ff9f10-e4c0-462d-99b0-0fb7b8949733)
+
+![CHB 004](https://github.com/user-attachments/assets/cd3f5f4f-2014-4bcd-9f6d-d6524ac64e91)
+
