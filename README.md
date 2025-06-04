@@ -6,7 +6,7 @@ Note: This repository also contains some interesting fractal design layouts.
 Here is a online rendered view of the notebooks: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/OJB-Quantum/Generative-Layout-Notebooks/tree/main/)
 
 ---
-Below are some screenshot examples of the GDS outputs:
+Below are some screenshot examples of the Python plotted previews, followed by the GDS outputs:
 
 ![CPW Chip 001](https://github.com/user-attachments/assets/e8e0ee21-a4e5-4349-a084-b252daf7ad55)
 
@@ -44,7 +44,7 @@ Below are some screenshot examples of the GDS outputs:
 ![CHB 006](https://github.com/user-attachments/assets/b68c1ecc-990b-4e5a-8666-dc04e958445d)
 
 
-![CHB 002](https://github.com/user-attachments/assets/8037c433-af88-4e70-8647-57cd702fc7ef)
+![CHB 002](https://github.com/user-attachments/assets/4f7c87cf-a630-4bbd-913f-d00828b5f63d)
 
 ![CHB 005](https://github.com/user-attachments/assets/5586805a-a225-4c47-adb2-a1ac2f79b209)
 
