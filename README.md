@@ -26,7 +26,8 @@ Below are some screenshot examples of the Python plotted previews, followed by t
 
 ![Untitled](https://github.com/user-attachments/assets/f6fee5b1-2bf6-4193-b75b-f93a11f394c8)
 
-![FWF Knob Based 001](https://github.com/user-attachments/assets/cddd7348-e731-4bef-ad87-cc7ad76a45f4)
+![file5](https://github.com/user-attachments/assets/bbad1bc8-0ab7-4c5f-9c82-d4955beb5621)
+
 
 
 
