@@ -5,6 +5,11 @@ Note: This repository also contains some interesting fractal design layouts.
 
 Here is a online rendered view of the notebooks: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/OJB-Quantum/Generative-Layout-Notebooks/tree/main/)
 
+Majority of the code used in this repository uses:
+- [GDSTK](https://heitzmann.github.io/gdstk/gettingstarted.html)
+- [numpy](https://numpy.org)
+- [matplotlib](https://matplotlib.org)
+
 Notes on Self-Avoiding Curve or Self-Avoiding Fractal Curve (Sometimes Called Non-Overlapping Fractal Curve): 
 - Doesn't always have to fill space (evenly). 
 - Emptier space in the middle of a large self-avoiding curve allows for less static build-up of electrical charge towards the center of the design.
