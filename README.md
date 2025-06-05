@@ -14,7 +14,7 @@ Notes on Self-Avoiding Curve or Self-Avoiding Fractal Curve (Sometimes Called No
 
 ![unnamed](https://github.com/user-attachments/assets/b75e9abc-a477-4e28-b51d-3f6a6e391829)
 
-Borrowed from: J. Ventrella, “Chapter 4,” *The Family Tree of Fractal Curves* [Online].  
+> Borrowed from: J. Ventrella, “Chapter 4,” *The Family Tree of Fractal Curves* [Online].  
 Available: http://www.fractalcurves.com/familytree/4.html.  
 
 ---
