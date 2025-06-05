@@ -24,7 +24,7 @@ Notes on Self-Avoiding Curve or Self-Avoiding Fractal Curve (Sometimes Called No
 Available: http://www.fractalcurves.com/familytree/4.html.  
 
 ---
-Below are some screenshot examples of the Python plotted previews, followed by the GDS outputs:
+### Below are some screenshot examples of the Python plotted previews, followed by the GDS outputs:
 
 ![CPW Chip 001](https://github.com/user-attachments/assets/e8e0ee21-a4e5-4349-a084-b252daf7ad55)
 
