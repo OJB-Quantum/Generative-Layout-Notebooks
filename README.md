@@ -54,6 +54,7 @@ Below are some screenshot examples of the Python plotted previews, followed by t
 
 ![CHB 002](https://github.com/user-attachments/assets/4f7c87cf-a630-4bbd-913f-d00828b5f63d)
 
-![CHB 005](https://github.com/user-attachments/assets/5586805a-a225-4c47-adb2-a1ac2f79b209)
+![file](https://github.com/user-attachments/assets/6eb4cb3e-b378-47e0-b2ba-fb2f58abfc2e)
+
 
 
