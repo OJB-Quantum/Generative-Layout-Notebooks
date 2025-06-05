@@ -36,6 +36,22 @@ Below are some screenshot examples of the Python plotted previews, followed by t
 
 ![file](https://github.com/user-attachments/assets/a1a4c68e-f5ad-4999-a9ea-a365c2569019)
 
+
+![Untitled](https://github.com/user-attachments/assets/23d94397-67ee-4c0d-a6ff-5604bd7897df)
+
+![file](https://github.com/user-attachments/assets/ee03bebd-dc7a-468c-86ce-e8d2d11d361c)
+
+
+![Untitled](https://github.com/user-attachments/assets/2b7b9b27-eec2-40ad-b840-6ea9612fc35d)
+
+![file](https://github.com/user-attachments/assets/465e169c-f214-4eba-a7cd-85fbbfa807ef)
+
+![Untitled](https://github.com/user-attachments/assets/3b2dd6a7-814d-4e1b-abfd-d47cb51b74fc)
+
+![file](https://github.com/user-attachments/assets/b75ba2ed-ed5a-4a0f-8812-a18d399bd67b)
+
+
+
 ![Untitled](https://github.com/user-attachments/assets/2c451882-4bb2-4d39-9812-3ae590752404)
 
 
