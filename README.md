@@ -32,6 +32,11 @@ Below are some screenshot examples of the Python plotted previews, followed by t
 
 ![file](https://github.com/user-attachments/assets/84715e6a-ee03-472a-bf6e-7bad8cb29275)
 
+![Untitled](https://github.com/user-attachments/assets/cd465306-61b2-4ead-a2d7-b911c4c370a1)
+
+![file](https://github.com/user-attachments/assets/f12fa2e5-8016-42ef-b1bc-f3cc0fb4482e)
+
+
 ![HCF 001](https://github.com/user-attachments/assets/7b4c8354-4361-4347-a872-b064483bdebf)
 
 ![HCF 002](https://github.com/user-attachments/assets/23231a54-5ad1-424d-a99b-b0f015e2d29a)
