@@ -20,6 +20,14 @@ Below are some screenshot examples of the Python plotted previews, followed by t
 
 ![451532694-4b01e5aa-ee34-4dcb-afb1-98a5c1e73ab2](https://github.com/user-attachments/assets/0a038847-e73e-4a78-b89d-ce68ac865c29)
 
+![Untitled](https://github.com/user-attachments/assets/2c451882-4bb2-4d39-9812-3ae590752404)
+
+![file](https://github.com/user-attachments/assets/31a5f728-a4ca-4b40-8da8-b4487d3f5231)
+
+![Untitled](https://github.com/user-attachments/assets/f6fee5b1-2bf6-4193-b75b-f93a11f394c8)
+
+![FWF Knob Based 001](https://github.com/user-attachments/assets/cddd7348-e731-4bef-ad87-cc7ad76a45f4)
+
 
 
 ![HCF 001](https://github.com/user-attachments/assets/7b4c8354-4361-4347-a872-b064483bdebf)
