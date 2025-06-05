@@ -1,5 +1,5 @@
 # Generative-Layout-Notebooks
-GDSII/OASIS layouts generated in working Google Colab notebooks. Layout previews are plotted as 2D graphics before exporting. 
+GDSII/OASIS layout generation done completely in Google Colab notebooks. Layout previews are plotted as 2D graphics before exporting. 
 
 Note: This repository also contains some interesting fractal design layouts.
 
