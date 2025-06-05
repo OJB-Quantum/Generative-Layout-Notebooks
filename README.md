@@ -42,7 +42,8 @@ Below are some screenshot examples of the Python plotted previews, followed by t
 
 ![FWF 001](https://github.com/user-attachments/assets/ffc1f102-5382-4059-bc8c-6d037bdd2e4a)
 
-![FWF 003](https://github.com/user-attachments/assets/e1db3dc0-d2b3-4273-86dc-bb992b15195a)
+![file6](https://github.com/user-attachments/assets/4857b2d2-fe9e-4658-b2f7-f347383eb59c)
+
 
 ![CHB 001](https://github.com/user-attachments/assets/d15ab485-17b7-4a20-bf2b-c336d17acc39)
 
