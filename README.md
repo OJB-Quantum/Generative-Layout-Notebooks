@@ -16,7 +16,7 @@ Notes on Self-Avoiding Curve or Self-Avoiding Fractal Curve (Sometimes Called No
 - Emptier space in the middle of a large self-avoiding curve allows for less static build-up of electrical charge towards the center of the design.
 - Never overlaps on the same layer.
 - Can be implemented with complementary self-avoiding curves for scalable array of cells.
-- You can also check out some interesting self-avoiding fractals here on Jeffrey Ventrilla's webpage: http://www.fractalcurves.com/familytree/4.html
+- You can also check out some interesting self-avoiding fractals here on Jeffrey Ventrella's webpage: http://www.fractalcurves.com/familytree/4.html
 
 ![unnamed](https://github.com/user-attachments/assets/b75e9abc-a477-4e28-b51d-3f6a6e391829)
 
