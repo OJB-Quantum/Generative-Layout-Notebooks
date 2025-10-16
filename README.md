@@ -33,6 +33,7 @@ Available: http://www.fractalcurves.com/familytree/4.html.
 
 <img width="10662" height="auto" alt="KI_TWPA_Preview" src="https://github.com/user-attachments/assets/3181b3f4-cb0b-4f4f-82db-8833961dc22c" />
 
+<img width="2845" height="auto" alt="image" src="https://github.com/user-attachments/assets/8ede58d4-c78b-4e3d-acfb-dc27b87da56a" />
 
 
 ![CPW Chip 001](https://github.com/user-attachments/assets/e8e0ee21-a4e5-4349-a084-b252daf7ad55)
