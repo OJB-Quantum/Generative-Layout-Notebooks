@@ -27,6 +27,8 @@ Available: http://www.fractalcurves.com/familytree/4.html.
 ---
 ### Below are some screenshot examples of the Python plotted previews, followed by the GDS outputs:
 
+<img width="5048" height="auto" alt="image" src="https://github.com/user-attachments/assets/70eee154-abcd-4349-b706-0e0db173f247" />
+
 ![CPW Chip 001](https://github.com/user-attachments/assets/e8e0ee21-a4e5-4349-a084-b252daf7ad55)
 
 ![CPW Chip 003](https://github.com/user-attachments/assets/200dd718-0b7c-49b2-89cf-a13ade46fdd0)
