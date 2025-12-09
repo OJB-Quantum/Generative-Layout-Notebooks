@@ -3,7 +3,7 @@ GDSII/OASIS layout generation done completely in Google Colab notebooks. Layout 
 
 No need to download anything manually, just run the notebooks.
 
-Note: This repository also contains some interesting fractal design layouts.
+Note: This repository also contains some interesting fractal design layouts. It is also possible to use CuPy to access the GPU through CUDA to help generate extremely complex and dense designs if you're interested. See the CUDA-accelerated example notebook(s) featured in the files above.
 
 Here is a online rendered view of the notebooks: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/OJB-Quantum/Generative-Layout-Notebooks/tree/main/)
 
