@@ -118,5 +118,5 @@ Available: http://www.fractalcurves.com/familytree/4.html.
 
 ![file](https://github.com/user-attachments/assets/6eb4cb3e-b378-47e0-b2ba-fb2f58abfc2e)
 
-
+<img width="6192" height="auto" alt="Untitled" src="https://github.com/user-attachments/assets/42542ece-4f3d-4186-9e1b-ead4af1785a0" />
 
