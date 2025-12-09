@@ -120,3 +120,4 @@ Available: http://www.fractalcurves.com/familytree/4.html.
 
 <img width="6192" height="auto" alt="Untitled" src="https://github.com/user-attachments/assets/42542ece-4f3d-4186-9e1b-ead4af1785a0" />
 
+![Fractal2](https://github.com/user-attachments/assets/c4e25a72-ca0e-42ef-8db7-5fb46718aa03)
