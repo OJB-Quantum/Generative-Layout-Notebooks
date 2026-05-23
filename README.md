@@ -9,6 +9,7 @@ Here is a online rendered view of the notebooks: [![nbviewer](https://raw.github
 
 Majority of the code used in this repository uses:
 - [GDSTK](https://heitzmann.github.io/gdstk/gettingstarted.html)
+- [PHIDL](https://phidl.readthedocs.io/en/latest/tutorials/quickstart.html)
 - [numpy](https://numpy.org)
 - [matplotlib](https://matplotlib.org)
 
