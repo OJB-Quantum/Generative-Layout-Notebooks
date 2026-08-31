@@ -12,6 +12,7 @@ Majority of the code used in this repository uses:
 - [PHIDL](https://phidl.readthedocs.io/en/latest/tutorials/quickstart.html)
 - [numpy](https://numpy.org)
 - [matplotlib](https://matplotlib.org)
+- [NetworkX](https://networkx.org/en/)
 
 Notes on Self-Avoiding Curve or Self-Avoiding Fractal Curve (Sometimes Called Non-Overlapping Fractal Curve): 
 - Doesn't always have to fill space (evenly). 
