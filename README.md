@@ -47,7 +47,8 @@ Available: http://www.fractalcurves.com/familytree/4.html.
 
 <img width="3474" height="auto" alt="image" src="https://github.com/user-attachments/assets/9e16a35a-33e0-4d28-b029-8aa418be2ff0" />
 
-<img width="3474" height="auto" alt="image" src="https://github.com/user-attachments/assets/660eaada-b36c-4d95-8a31-f9be0ea20568" />
+<img width="3474" height="auto" alt="image" src="https://github.com/user-attachments/assets/394e7a15-6282-4fe9-8be0-3b334e12dbdd" />
+
 
 
 
