@@ -9,8 +9,10 @@ Here is a online rendered view of the notebooks: [![nbviewer](https://raw.github
 
 Majority of the code used in this repository uses:
 - [GDSTK](https://heitzmann.github.io/gdstk/gettingstarted.html)
+- [PHIDL](https://phidl.readthedocs.io/en/latest/tutorials/quickstart.html)
 - [numpy](https://numpy.org)
 - [matplotlib](https://matplotlib.org)
+- [NetworkX](https://networkx.org/en/)
 
 Notes on Self-Avoiding Curve or Self-Avoiding Fractal Curve (Sometimes Called Non-Overlapping Fractal Curve): 
 - Doesn't always have to fill space (evenly). 
@@ -39,14 +41,19 @@ Available: http://www.fractalcurves.com/familytree/4.html.
 
 <img width="1347" height="auto" alt="image" src="https://github.com/user-attachments/assets/406541f6-0987-49a0-8dd9-e62e56cfdab6" />
 
+<img width="2830" height="auto" alt="image" src="https://github.com/user-attachments/assets/81c06c87-10c9-4968-b398-6e05c675f3ba" />
 
-![CPW Chip 001](https://github.com/user-attachments/assets/e8e0ee21-a4e5-4349-a084-b252daf7ad55)
+<img width="2830" height="auto" alt="image" src="https://github.com/user-attachments/assets/a1eb2b4b-11ad-447b-949b-a93548f4bc6e" />
 
-![CPW Chip 003](https://github.com/user-attachments/assets/200dd718-0b7c-49b2-89cf-a13ade46fdd0)
+<img width="3474" height="auto" alt="image" src="https://github.com/user-attachments/assets/394e7a15-6282-4fe9-8be0-3b334e12dbdd" />
 
-![CPW Chip 002](https://github.com/user-attachments/assets/4f3f01d6-2386-4377-a43f-71945412eebf)
+<img width="3474" height="auto" alt="image" src="https://github.com/user-attachments/assets/da1d30e3-b177-4f96-b71c-b23345d82a2c" />
 
-![CPW Chip 004](https://github.com/user-attachments/assets/c60dc36a-1aeb-47a0-a5be-764f6969a957)
+<img width="1838" height="auto" alt="image" src="https://github.com/user-attachments/assets/5c6a7969-0e86-452d-9d5c-ec35ed769c91" />
+
+<img width="1808" height="auto" alt="image" src="https://github.com/user-attachments/assets/f4a76d61-e429-4f7e-ae34-22bc77559b79" />
+
+
 
 ![Untitled](https://github.com/user-attachments/assets/dd77a00b-db61-4389-b1dc-a9404e1f1725)
 
