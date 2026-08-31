@@ -49,12 +49,6 @@ Available: http://www.fractalcurves.com/familytree/4.html.
 
 
 
-![CPW Chip 003](https://github.com/user-attachments/assets/200dd718-0b7c-49b2-89cf-a13ade46fdd0)
-
-![CPW Chip 002](https://github.com/user-attachments/assets/4f3f01d6-2386-4377-a43f-71945412eebf)
-
-![CPW Chip 004](https://github.com/user-attachments/assets/c60dc36a-1aeb-47a0-a5be-764f6969a957)
-
 ![Untitled](https://github.com/user-attachments/assets/dd77a00b-db61-4389-b1dc-a9404e1f1725)
 
 ![451532694-4b01e5aa-ee34-4dcb-afb1-98a5c1e73ab2](https://github.com/user-attachments/assets/0a038847-e73e-4a78-b89d-ce68ac865c29)
